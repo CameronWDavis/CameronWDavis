@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronWDavis&theme=tokyonight)
+
 [![Cameron's Stats](https://github-readme-stats.vercel.app/api?username=CameronWDavis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronWDavis&theme=tokyonight)
+
