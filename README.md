@@ -17,5 +17,7 @@ My name is Cameron Davis, I am a person who loves programing and all things logi
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor)
+![Razor](https://img.shields.io/badge/-Razor-512BD4?style=flat-square&logo=razor)
 
 
