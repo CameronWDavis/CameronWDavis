@@ -1,5 +1,6 @@
 # Cameron Davis
 My name is Cameron Davis, I am a person who loves programing and all things logic based. My github is primarly where I upload either group and school projects or just things I am currently working on. Feel free to take a look! 
+My expirence is kind of all over the place but at this time I am primary focusing on C#,and React Development for web applications along with some hobbiest C++ systems software I am working on in my free time.
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronWDavis&theme=tokyonight)
