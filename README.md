@@ -1,4 +1,4 @@
-###👋Welcome to My Profile
+# Cameron Davis
 My name is Cameron Davis, I am a person who loves programing and all things logic based. My github is primarly where I upload either group and school projects or just things I am currently working on. Feel free to take a look! 
 
 
