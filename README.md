@@ -5,10 +5,6 @@ My experience is kind of all over the place, but at this time I am primarily foc
  
 # Website
 https://www.camerondavis.dev/
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronWDavis&theme=tokyonight&hide_border=true)
- 
-[![Cameron's Stats](https://github-readme-stats.vercel.app/api?username=CameronWDavis&show_icons=true&theme=radical)](https://github.com/CameronWDavis)
 
 
 ### My Toolkit 
