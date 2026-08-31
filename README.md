@@ -1,7 +1,9 @@
 # Cameron Davis
-My name is Cameron Davis. I love programming and all things logic-based. My GitHub is primarily where I upload group and school projects, or just things I am currently working on. Feel free to take a look!
+My name is Cameron Davis. I love programming and all things logic-based. 
  
-My experience is kind of all over the place, but at this time I am primarily focusing on C# and React development for web applications, along with some hobbyist C++ systems software I am working on in my free time.
+Graduate Student with focus on Artificial Intelligence 
+Open Source Lover 
+Hobbyist systems and embedded developer
  
 # Website
 https://www.camerondavis.dev/
