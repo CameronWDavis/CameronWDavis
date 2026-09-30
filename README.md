@@ -8,6 +8,10 @@ Hobbyist systems and embedded developer
 # Website
 https://www.camerondavis.dev/
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CameronWDavis&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=default" alt="Top languages by repo">
+</picture>
 
 ### My Toolkit 
 <img align="left" alt=".NET Core" title=".NET Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
